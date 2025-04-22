@@ -1,0 +1,15 @@
+html{
+ background-color: blue;
+}
+
+@media screen and (max-width: 720px){
+  html{
+  background-color:yellow ;
+  }
+}
+
+@media screen and (max-width: 320px){
+  html{
+    background-color:red;
+  }
+}
